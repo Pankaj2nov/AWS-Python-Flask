@@ -17,7 +17,14 @@ This is an image of the architecture of the application and different AWS servic
 
 ## Built and Deployed with:
 
-* AWS
-* Python (code got from GitHub)
+* Amazon EC2
+* Amazon Cognito
+* Amazon Rekognition
+* Amazon Relational Database
+* Amazon S3
+* Amazon SNS
+* AWS X-Ray
+* AWS Lambda
+* Python (code from GitHub)
 
 
