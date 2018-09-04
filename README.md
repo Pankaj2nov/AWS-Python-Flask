@@ -12,7 +12,7 @@ The user is signs in/signs up on the home screen. The user is then authenticated
 
 This is an image of the architecture of the application and different AWS services it uses.
 
-<img src="images/IMG_4384.PNG" width="30%" height="30%">
+<img src="images/AWSPythonFlask.jpeg" width="100%" height="1000%">
 
 
 ## Built and Deployed with:
