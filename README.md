@@ -25,6 +25,6 @@ This is an image of the architecture of the application and different AWS servic
 * Amazon SNS
 * AWS X-Ray
 * AWS Lambda
-* Python (code from GitHub)
+* Code from GitHub: Python, HTML, CSS, JavaScript
 
 
